@@ -47,7 +47,6 @@
   <a href="#"><img src="https://img.shields.io/static/v1?logo=react&label=&message=React&color=36465D&logoColor=AAA&style=flat"/></a>
   <a href="#"><img src="https://img.shields.io/static/v1?logo=svelte&label=&message=Svelte&color=36465D&logoColor=AAA&style=flat"/></a>
   <a href="#"><img src="https://img.shields.io/static/v1?logo=nuxt.js&label=&message=Nuxt&color=36465D&logoColor=AAA&style=flat"/></a>
-  <a href="#"><img src="https://img.shields.io/static/v1?logo=vuetify&label=&message=Vuetify&color=36465D&logoColor=AAA&style=flat"/></a>
   <a href="#"><img src="https://img.shields.io/static/v1?logo=firebase&label=&message=Firebase&color=36465D&logoColor=AAA&style=flat"/></a>
   <a href="#"><img src="https://img.shields.io/static/v1?logo=git&label=&message=Git&color=36465D&logoColor=AAA&style=flat"/></a>
   <a href="#"><img src="https://img.shields.io/static/v1?logo=figma&label=&message=Figma&color=36465D&logoColor=AAA&style=flat"/></a>
