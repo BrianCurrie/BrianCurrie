@@ -1,16 +1,52 @@
-### Hi there 👋
+### Hey! I'm Brian 👋
 
-<!--
-**BrianCurrie/BrianCurrie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <picture>
+    <img alt="Let's chat!" src="https://img.shields.io/static/v1?label=&message=Say%20Hello!&color=111&style=flat">
+  </picture>
+  <a href="https://www.linkedin.com/in/brianryleycurrie/"><img src="https://img.shields.io/static/v1?logo=linkedin&label=&message=brianryleycurrie&style=flat&color=blue&logoColor=white"/></a>
+</div>
+<br/>
+<div>
+  <picture>
+    <img alt="What I'm Learning" src="https://img.shields.io/static/v1?label=&message=What%20I'm%20Learning&color=111&style=flat">
+  </picture>
+  <a href="#"><img src="https://img.shields.io/static/v1?logo=Node.js&label=&message=Node.js&color=36465D&logoColor=AAA&style=flat"/></a>
+  <a href="#"><img src="https://img.shields.io/static/v1?logo=MySQL&label=&message=MySQL&color=36465D&logoColor=AAA&style=flat"/></a>
+  <a href="#"><img src="https://img.shields.io/static/v1?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAACXBIWXMAAAsTAAALEwEAmpwYAAAA1UlEQVR4nO2TSQrCQBBFs1dwnnDlcbyJXivQgX6hkxu4FBREFFy4UdCDKAUdkJCg5bAyD4p00lX/hdAJggoNwE1KNaThvwXGmK61dvaRAKhLlYTv/Pz8LUEYhjVgAayB9sNMLwuXq8jUAqABLLN9YJMkSUcVXiZI07QJrPzeGTj59VYVXiQoCJ8450bAIet9OTwvMMa0/PeWZ0dgnPVFUTQA9qrwvEBOg7+Xtx0W9PZU4XmBIOfaOddXhWgEX6cSPMVae334W9+uoIw4jqfA5WeCiqCAO0ppc2XjAP4JAAAAAElFTkSuQmCC&label=&message=Data%20Visualization&color=36465D&logoColor=AAA&style=flat"/></a>
+</div>
+<div>
+  <picture>
+    <img alt="Languages" src="https://img.shields.io/static/v1?label=&message=Languages&color=111&style=flat">
+  </picture>
+  <a href="#"><img src="https://img.shields.io/static/v1?logo=javascript&label=&message=JavaScript&color=36465D&logoColor=AAA&style=flat"/></a>
+  <a href="#"><img src="https://img.shields.io/static/v1?logo=typescript&label=&message=TypeScript&color=36465D&logoColor=AAA&style=flat"/></a>
+  <a href="#"><img src="https://img.shields.io/static/v1?logo=python&label=&message=Python&color=36465D&logoColor=AAA&style=flat"/></a>
+  <a href="#"><img src="https://img.shields.io/static/v1?logo=html5&label=&message=HTML5&color=36465D&logoColor=AAA&style=flat"/></a>
+  <a href="#"><img src="https://img.shields.io/static/v1?logo=css3&label=&message=CSS3&color=36465D&logoColor=AAA&style=flat"/></a>
+</div>
+<div>
+  <picture>
+    <img alt="Development" src="https://img.shields.io/static/v1?label=&message=Development&color=111&style=flat">
+  </picture>
+  <a href="#"><img src="https://img.shields.io/static/v1?logo=vue.js&label=&message=Vue&color=36465D&logoColor=AAA&style=flat"/></a>
+  <a href="#"><img src="https://img.shields.io/static/v1?logo=react&label=&message=React&color=36465D&logoColor=AAA&style=flat"/></a>
+  <a href="#"><img src="https://img.shields.io/static/v1?logo=svelte&label=&message=Svelte&color=36465D&logoColor=AAA&style=flat"/></a>
+  <a href="#"><img src="https://img.shields.io/static/v1?logo=nuxt.js&label=&message=Nuxt&color=36465D&logoColor=AAA&style=flat"/></a>
+  <a href="#"><img src="https://img.shields.io/static/v1?logo=vuetify&label=&message=Vuetify&color=36465D&logoColor=AAA&style=flat"/></a>
+  <a href="#"><img src="https://img.shields.io/static/v1?logo=firebase&label=&message=Firebase&color=36465D&logoColor=AAA&style=flat"/></a>
+  <a href="#"><img src="https://img.shields.io/static/v1?logo=git&label=&message=Git&color=36465D&logoColor=AAA&style=flat"/></a>
+  <a href="#"><img src="https://img.shields.io/static/v1?logo=figma&label=&message=Figma&color=36465D&logoColor=AAA&style=flat"/></a>
+</div>
+<br/>
+<details open>
+  <summary>
+  <picture>
+    <img align=center alt="Github stats" src="https://img.shields.io/static/v1?label=&message=Github%20Stats&color=111&style=flat">
+  </picture>
+  </summary>
+  <br/>
+  <picture>
+    <img align="left" alt="Brian's GitHub Stats" src="https://github-readme-stats-briancurries-projects.vercel.app/api?username=briancurrie&hide=&count_private=true&hide_border=true&show_icons=true&theme=github_dark_dimmed" />
+  </picture>
+</details>
