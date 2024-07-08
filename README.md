@@ -51,15 +51,4 @@
   <a href="#"><img src="https://img.shields.io/static/v1?logo=git&label=&message=Git&color=36465D&logoColor=AAA&style=flat"/></a>
   <a href="#"><img src="https://img.shields.io/static/v1?logo=figma&label=&message=Figma&color=36465D&logoColor=AAA&style=flat"/></a>
 </div>
-<br/>
-<details open>
-  <summary>
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/static/v1?label=&message=Github%20Stats&color=111&style=flat">
-  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/static/v1?label=&message=Github%20Stats&color=111&style=flat">
-      <img align=center alt="Github stats" src="https://img.shields.io/static/v1?label=&message=Github%20Stats&color=111&style=flat">
-    </picture>
-  </summary>
-  <br/>
-  <a href="#"><img align="left" alt="Brian's GitHub Stats" src="https://github-readme-stats-briancurries-projects.vercel.app/api?username=briancurrie&hide=&count_private=true&hide_border=true&show_icons=true&theme=github_dark_dimmed" /></a>
 </details>
