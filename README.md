@@ -1,5 +1,4 @@
 <h3>
-  <span>Hey! I'm Brian 👋</span>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/BrianCurrie/BrianCurrie/assets/22867075/f3ef6639-15ea-4fa0-8713-71fb25c22755">
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/BrianCurrie/BrianCurrie/assets/22867075/14117474-acbb-4d54-9700-a2a262a87252">
